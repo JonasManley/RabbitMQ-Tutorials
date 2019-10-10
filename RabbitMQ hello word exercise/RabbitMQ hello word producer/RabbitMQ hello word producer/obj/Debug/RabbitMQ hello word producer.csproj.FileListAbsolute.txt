@@ -1,0 +1,11 @@
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\bin\Debug\RabbitMQ hello word producer.exe.config
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\bin\Debug\RabbitMQ hello word producer.exe
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\bin\Debug\RabbitMQ hello word producer.pdb
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\obj\Debug\RabbitMQ hello word producer.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\obj\Debug\RabbitMQ hello word producer.csproj.CopyComplete
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\obj\Debug\RabbitMQ hello word producer.exe
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word producer\RabbitMQ hello word producer\obj\Debug\RabbitMQ hello word producer.pdb

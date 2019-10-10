@@ -1,0 +1,11 @@
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\obj\Debug\RabbitMQ hello word consumer.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\bin\Debug\RabbitMQ hello word consumer.exe.config
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\bin\Debug\RabbitMQ hello word consumer.exe
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\bin\Debug\RabbitMQ hello word consumer.pdb
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\obj\Debug\RabbitMQ hello word consumer.csproj.CopyComplete
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\obj\Debug\RabbitMQ hello word consumer.exe
+C:\Users\Jonas\Desktop\RabbitMQ hello word exercise\RabbitMQ hello word consumer\RabbitMQ hello word consumer\obj\Debug\RabbitMQ hello word consumer.pdb
